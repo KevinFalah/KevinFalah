@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I want to collaborate wherever I can develop
+- 🌱 I graduated from Telkom Jakarta high school, majoring in computer and network engineering and graduated in 2020. For now I am studying at Mercu Buana University and of course the employee class so that I can study while working.
 - 📫 kevinghossanfalah34@gmail.com
 
 <!---

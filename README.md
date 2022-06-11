@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinFalah
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I'm a wordpress developer at Edukasi Prima Indonesia
 - 💞️ I’m looking to collaborate on Expert 
 - 📫 kevinghossanfalah34@gmail.com
 

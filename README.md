@@ -8,3 +8,11 @@
 KevinFalah/KevinFalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://github.com/kevinfalah/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfalah&github-readme-stats&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/kevinfalah/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfalah&layout=compact&theme=tokyonight" />
+</a>

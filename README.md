@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KevinFalah
 - 👀 I’m interested in Website Development
-- 🌱 I'm a wordpress developer at Edukasi Prima Indonesia
 - 💞️ I’m looking to collaborate on Expert 
 - 📫 kevinghossanfalah34@gmail.com
 
@@ -13,6 +12,4 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfalah&github-readme-stats&show_icons=true&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/kevinfalah/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfalah&layout=compact&theme=tokyonight" />
-</a>
+

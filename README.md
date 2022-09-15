@@ -35,10 +35,10 @@ Kevin Falah</a></h1>
 
 ---
 
-Credit: [KEVIN FALAH](https://github.com/KevinFalah)
 
 <a href="https://github.com/kevinfalah/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfalah&github-readme-stats&show_icons=true&theme=tokyonight" />
 </a>
 
 
+Credit: [KEVIN FALAH](https://github.com/KevinFalah)

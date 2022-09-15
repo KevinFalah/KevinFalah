@@ -48,4 +48,3 @@ Kevin Falah</a></h1>
 	<br>
 </div>
 
-[KEVIN FALAH](https://github.com/KevinFalah)

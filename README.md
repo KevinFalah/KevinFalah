@@ -37,8 +37,6 @@ Kevin Falah</a></h1>
 
 Credit: [KEVIN FALAH](https://github.com/KevinFalah)
 
-Last Edited on: 09/15/2022
-
 <a href="https://github.com/kevinfalah/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfalah&github-readme-stats&show_icons=true&theme=tokyonight" />
 </a>

@@ -40,5 +40,4 @@ Kevin Falah</a></h1>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfalah&github-readme-stats&show_icons=true&theme=tokyonight" />
 </a>
 
-
-Credit: [KEVIN FALAH](https://github.com/KevinFalah)
+[KEVIN FALAH](https://github.com/KevinFalah)

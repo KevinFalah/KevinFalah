@@ -5,7 +5,7 @@ Kevin Falah</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinFalah&label=Profile%20views&color=0e75b6&style=flat" alt="KevinFalah" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" borderRadius="10px" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 

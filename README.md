@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href="https://instagram.com/kevinfalah/" target="blank">
-Kevin Falah</a></h1>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinFalah&label=Profile%20views&color=0e75b6&style=flat" alt="KevinFalah" /> </p>
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/KevinFalah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p
 
 <a target="_blank" align="center">
   <img align="right" top="500" borderRadius="10px" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">

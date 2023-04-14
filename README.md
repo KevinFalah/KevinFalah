@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/KevinFalah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+KevinFalah;Programmer+From+Indonesia;Web+Dev+Javascript+Golang+%3C3"></a>
+  <a href="https://github.com/KevinFalah"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+KevinFalah;Programmer+From+Indonesia;Web+Dev+Javascript+%3C3"></a>
 </p
 	
 
@@ -18,9 +18,9 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React & Golang
+- 🌱 I’m currently work at IFG Life
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kevinghossanfalah34@gmail.com**
 

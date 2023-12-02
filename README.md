@@ -18,7 +18,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently work at IFG Life
+- 🌱 I’m currently work at Mandala Multifinance
 
 - 💬 Ask me about **Web Development**
 

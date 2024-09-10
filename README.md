@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently work at Mandala Multifinance
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** and **Blockchain**
 
 - 📫 How to reach me **kevinghossanfalah34@gmail.com**
 

@@ -18,13 +18,10 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently work at Mandala Multifinance
-
 - 💬 Ask me about **Web Development** and **Blockchain**
 
 - 📫 How to reach me **kevinghossanfalah34@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/kevin-falah/" target="_blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 

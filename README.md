@@ -28,28 +28,21 @@
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="left">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/kevin-falah/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/kevin.falah/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@boycodee">
-			<img src="https://img.icons8.com/doodle/40/000000/tiktok.png"></a>
-
-</p>
-
----
-
-
-<a href="https://github.com/kevinfalah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfalah&github-readme-stats&show_icons=true&theme=tokyonight" />
-</a>
-
 <p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFalah&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </p>
 
